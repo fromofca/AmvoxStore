@@ -1,0 +1,1 @@
+document.getElementById("discord").onclick = dc;function dc() {window.open("https://discord.gg/exfgE25ZPq", "_blank")};document.getElementById("link").onclick = link;function link(l) {window.open(l, "_blank")};function alterar(msg){window.history.replaceState({}, document.title, "/"+msg);}
